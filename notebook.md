@@ -17,3 +17,7 @@ Week Fri 08/31/18  - 09/06/18
 Week Fri 09/07/18  - 09/13/18
 -----------------------------
 * Attended 9/7 discussion
+
+Week Fri 09/14/18 - 09/20/18
+----------------------------
+* Attended 9/14 discussion session.
