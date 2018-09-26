@@ -23,3 +23,7 @@ Week Fri 09/14/18 - 09/20/18
 ----------------------------
 * Attended 9/14 discussion session.
 * Explore JabRef
+
+Week Fri 09/21/18 - 09/27/18
+----------------------------
+* Attended 9/21 discussion session.
