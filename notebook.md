@@ -27,3 +27,8 @@ Week Fri 09/14/18 - 09/20/18
 Week Fri 09/21/18 - 09/27/18
 ----------------------------
 * Attended 9/21 discussion session.
+
+Week Fri 09/28/18 - 10/04/18
+----------------------------
+* Attended 9/28 discussion sesison.
+* Prepare paper thesis.
