@@ -32,3 +32,8 @@ Week Fri 09/28/18 - 10/04/18
 ----------------------------
 * Attended 9/28 discussion sesison.
 * Prepare paper thesis.
+* Technology Summaries finished.
+
+Week Fri 10/05/18 - 10/11/18
+----------------------------
+* Discussion canceled due to fall break
