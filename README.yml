@@ -7,3 +7,12 @@ owner:
   technologies: 
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/amazon-rds.md
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/twitter-heron.md
+  paper:
+      - title: TBD
+      - url: TBD
+      - group: hid TBD
+  project:
+      - title: TBD
+      - url: TBD
+      - group: fa18-423-03
+      - code: TBD
