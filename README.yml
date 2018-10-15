@@ -4,6 +4,7 @@ owner:
   lastname: "Hu"
   hid: "fa18-423-05"
   community: "i423"
+  semester: "fa18"
 technologies: 
     - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/amazon-rds.md
     - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/twitter-heron.md
