@@ -46,3 +46,4 @@ Week Fri 10/12/18 - 10/18/18
 Week Fri 10/19/18 - 10/25/18
 ----------------------------
 * Attended 10/19 discussion session.
+* Github Pull request fixed.
