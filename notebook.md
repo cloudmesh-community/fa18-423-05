@@ -42,3 +42,7 @@ Week Fri 10/12/18 - 10/18/18
 ----------------------------
 * Attended 10/12 discussion session.
 * README.yml updated.
+
+Week Fri 10/19/18 - 10/25/18
+----------------------------
+* Attended 10/19 discussion session.
