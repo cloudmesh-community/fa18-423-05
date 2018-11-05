@@ -8,8 +8,8 @@ owner:
 technologies: 
     - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/amazon-rds.md
     - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/twitter-heron.md
-    - url: TBD
-    - url: TBD
+    - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/graphlab.md
+    - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hive.md
 project:
     - title: Automation on Drug Interactions Profiling
     - url: https://github.com/cloudmesh-community/fa18-423-03/tree/master/project
