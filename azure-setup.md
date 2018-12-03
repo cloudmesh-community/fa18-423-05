@@ -68,7 +68,7 @@ This document explains how to access Microsoft Azure and how Azure is used to ru
 
   To install python modules, this command could be used:
 
-  > "pip install Module+Name"
+  > "pip install Module_Name"
 
   **Disclaimer**
   
