@@ -64,11 +64,11 @@ This document explains how to access Microsoft Azure and how Azure is used to ru
   
   Once files are uploaded to the server, we can return back to the Git Bash or Terminal to execute python code by running the command:
 
-  > "python3 <file name>"
+  > "python3 File_Name"
 
   To install python modules, this command could be used:
 
-  > "pip install <module name>"
+  > "pip install Module+Name"
 
   **Disclaimer**
   
